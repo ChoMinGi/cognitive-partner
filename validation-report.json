@@ -5,7 +5,7 @@
   "semantic_leakage_guarantee": false,
   "scope": "Local static structure, reference, YAML and evaluation-input checks only",
   "passed": true,
-  "checks_count": 152,
+  "checks_count": 153,
   "checks": [
     {
       "check": "file:README.md",
@@ -133,21 +133,6 @@
       "detail": ""
     },
     {
-      "check": "balanced_code_fences:cognitive-partner/references/intervention-guide.md",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "check": "balanced_code_fences:cognitive-partner/references/examples.md",
-      "passed": true,
-      "detail": ""
-    },
-    {
-      "check": "balanced_code_fences:cognitive-partner/references/contribution-record.md",
-      "passed": true,
-      "detail": ""
-    },
-    {
       "check": "balanced_code_fences:integration/AGENTS.snippet.md",
       "passed": true,
       "detail": ""
@@ -164,6 +149,26 @@
     },
     {
       "check": "balanced_code_fences:docs/verification.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "balanced_code_fences:docs/presentation-guide.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "balanced_code_fences:cognitive-partner/references/intervention-guide.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "balanced_code_fences:cognitive-partner/references/examples.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "balanced_code_fences:cognitive-partner/references/contribution-record.md",
       "passed": true,
       "detail": ""
     },
